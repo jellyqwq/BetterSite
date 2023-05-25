@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         anti-redirect
-// @namespace    https://github.com/jellyqwq
+// @namespace    https://github.com/jellyqwq/BetterSite
 // @version      0.1
-// @description  try to take over the world!
+// @description  anti-redirect!
 // @author       jellyqwq
+// @supportURL   https://github.com/jellyqwq/BetterSite
+// @updateURL    https://raw.githubusercontent.com/jellyqwq/BetterSite/master/anti-redirect.js
+// @downloadURL  https://raw.githubusercontent.com/jellyqwq/BetterSite/master/anti-redirect.js
 // @match        https://*.juejin.cn/**/**
 // @match        https://*.zhihu.com/**/**
 // @icon         none
